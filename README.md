@@ -1,0 +1,1 @@
+answers to codility questions
